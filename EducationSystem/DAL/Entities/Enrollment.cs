@@ -1,8 +1,6 @@
 ﻿namespace EducationSystem.DAL.Entities
 {
-    public enum Gender
+    public class Enrollment
     {
-        Male,
-        Female
     }
 }
